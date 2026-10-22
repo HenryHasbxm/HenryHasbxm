@@ -1,4 +1,8 @@
-## Hi there 👋
+Herro
+
+y’all prob know me as Henry Lin, ehs class of 29’
+
+I need money y’all.
 
 <!--
 **HenryHasbxm/HenryHasbxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
