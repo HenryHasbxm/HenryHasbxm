@@ -6,7 +6,7 @@ or Henry Lin member of True Jesus Church (tjc.org)
 
 nevertheless, this is my GitHub/Coding portfolio
 
-if ur here to play games or i know u from school, please make an account and follow me
+if ur here to play games or i know u from school, please make an account, follow me, and star the repo u use
 it supports me
 
 ## some stats 😭😭😭😭
