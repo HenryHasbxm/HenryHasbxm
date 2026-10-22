@@ -1,8 +1,9 @@
 Herro
 
 y’all prob know me as Henry Lin, ehs class of 29’
-
-I need money y’all.
+or Henry Lin member of True Jesus Church (tjc.org)
+nevertheless, this is my GitHub/Coding portfolio
+if ur here to play games, please make an account and follow me
 
 <!--
 **HenryHasbxm/HenryHasbxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
