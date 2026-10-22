@@ -10,9 +10,9 @@ if ur here to play games or i know u from school, please make an account, follow
 it supports me
 
 ## some stats 😭😭😭😭
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryHasbxm&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryHasbxm&layout=compact&langs_count=8&theme=radical" />
+<div align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenryHasbxm&show_icons=true&theme=radical&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryHasbxm&layout=compact&langs_count=8&theme=radical" />
 </div>
 
 ## isnt this js so cool
