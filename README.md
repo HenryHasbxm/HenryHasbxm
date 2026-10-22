@@ -9,13 +9,14 @@ nevertheless, this is my GitHub/Coding portfolio
 if ur here to play games or i know u from school, please make an account and follow me
 it supports me
 
-## some stats  
+## some stats 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryHasbxm&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryHasbxm&layout=compact&langs_count=8&theme=radical" />
 </div>
+😭😭😭😭
 
-## isnt this cool
+## isnt this js so cool
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
