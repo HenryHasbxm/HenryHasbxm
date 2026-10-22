@@ -9,6 +9,9 @@ nevertheless, this is my GitHub/Coding portfolio
 if ur here to play games or i know u from school, please make an account, follow me, and star the repo u use
 it supports me
 
+have a request or smth?
+contact me through my personal email or my school email
+
 ## some stats 😭😭😭😭
 <div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenryHasbxm&show_icons=true&theme=radical&count_private=true" />
