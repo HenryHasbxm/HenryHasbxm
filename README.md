@@ -10,7 +10,7 @@ if ur here to play games or i know u from school, please make an account, follow
 it supports me
 
 have a request or smth?
-contact me through my personal email or my school email
+contact me right here in GitHub. if u email my school email, imma be mad
 
 ## some stats 😭😭😭😭
 <div align="left">
