@@ -2,10 +2,10 @@
 
 Welcome to my GitHub/Coding portfolio! Whether you're here to check out my games, collaborate, or you know me from school—thanks for stopping by. 
 
-### 🚀 Featured Projects
-* **Numbered Notetaking** – A modern, structured note-taking tool.
-* **Bible Battle** – An interactive game designed for learning and fun.
-* **Huck** – A custom project built for performance and practical use.
+### Featured Projects
+* **Numbered Notetaking**
+* **Bible Battle**
+* **Huck**
 
 ---
 
