@@ -1,4 +1,7 @@
-Herro everyone
+Original Projects:
+Numbered Notetaking,
+Bible Battle,
+Huck
 
 y’all prob know me as Henry Lin, ehs class of 29’
 
