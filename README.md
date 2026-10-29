@@ -1,33 +1,42 @@
-Original Projects:
-Numbered Notetaking,
-Bible Battle,
-Huck
+# Hi there, I'm Henry Lin! 👋
 
-y’all prob know me as Henry Lin, ehs class of 29’
+Welcome to my GitHub/Coding portfolio! Whether you're here to check out my games, collaborate, or you know me from school—thanks for stopping by. 
 
-or Henry Lin member of True Jesus Church (tjc.org)
+### 🚀 Featured Projects
+* **Numbered Notetaking** – A modern, structured note-taking tool.
+* **Bible Battle** – An interactive game designed for learning and fun.
+* **Huck** – A custom project built for performance and practical use.
 
-nevertheless, this is my GitHub/Coding portfolio
+---
 
-if ur here to play games or i know u from school, please make an account, follow me, and star the repo u use
-it supports me
+### 📌 About Me
+* 🎓 Student at **EHS (Class of '29)**
+* ⛪ Active member at **True Jesus Church** ([tjc.org](https://tjc.org))
+* 🕹️ Building fun web apps, interactive games, and useful tools.
 
-have a request or smth?
-contact me right here in GitHub. if u email my school email, imma be mad
+> 💡 **Quick Request:** If you're using my repos or playing the games, please consider making an account, following me, and dropping a **⭐ Star** on the repo! It really supports my work.
 
-## some stats 😭😭😭😭
+---
+
+### 📩 Contact & Requests
+* Have a feature request, bug report, or idea? Open an issue or start a discussion directly here on **GitHub**.
+* ⚠️ **Note:** Please **do not** send messages to my school email for GitHub projects. 
+
+---
+
+### 📊 GitHub Stats
 <div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenryHasbxm&show_icons=true&theme=radical&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryHasbxm&layout=compact&langs_count=8&theme=radical" />
 </div>
 
-## isnt this js so cool
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+---
 
-
+### 🛠️ Tech Stack & Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
 
 
