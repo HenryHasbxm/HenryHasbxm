@@ -12,7 +12,7 @@ Welcome to my GitHub/Coding portfolio! Whether you're here to check out my games
 ### 📌 About Me
 * Student at **EHS (Class of '29)**
 * Active member at **True Jesus Church** ([tjc.org](https://tjc.org))
-* Building fun web apps, interactive games, and useful tools.
+* I’m that one guy you prob somehow know
 
 > 💡 **Quick Request:** If you're using my repos or playing the games, please consider making an account, following me, and dropping a **⭐ Star** on the repo! It really supports my work.
 
