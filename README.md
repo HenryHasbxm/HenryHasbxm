@@ -20,7 +20,8 @@ Welcome to my GitHub/Coding portfolio! Whether you're here to check out my games
 
 ### 📩 Contact & Requests
 * Have a feature request, bug report, or idea? Open an issue or start a discussion directly here on **GitHub**.
-* ⚠️ **Note:** Please **do not** send messages to my school email for GitHub projects. 
+* ⚠️ **Note:** Please **do not** send messages to my school email for GitHub projects.
+* My Zelle is 983-214-5671. I take any donations.
 
 ---
 
