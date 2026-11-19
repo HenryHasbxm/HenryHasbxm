@@ -14,14 +14,13 @@ Welcome to my GitHub/Coding portfolio! Whether you're here to check out my games
 * Active member at **True Jesus Church** ([tjc.org](https://tjc.org))
 * I’m that one guy you prob somehow know
 
-> 💡 **Quick Request:** If you're using my repos or playing the games, please consider making an account, following me, and dropping a **⭐ Star** on the repo! It really supports my work.
+> **Quick Request:**  Follow me, and drop a **⭐ Star** on the repositories. It really supports my work.
 
 ---
 
 ### 📩 Contact & Requests
 * Have a feature request, bug report, or idea? Open an issue or start a discussion directly here on **GitHub**.
-* ⚠️ **Note:** Please **do not** send messages to my school email for GitHub projects.
-* My Zelle is 983-214-5671. I take any donations.
+* My Zelle is 983-214-5671. I take any donations (if you have the resources, please donate).
 
 ---
 
