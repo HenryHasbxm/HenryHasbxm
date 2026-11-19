@@ -14,7 +14,7 @@ Welcome to my GitHub/Coding portfolio! Whether you're here to check out my games
 * Active member at **True Jesus Church** ([tjc.org](https://tjc.org))
 * I’m that one guy you prob somehow know
 
-> **Quick Request:**  Follow me, and drop a **⭐ Star** on the repositories. It really supports my work.
+> **Quick Request:**  Follow me and drop a **⭐ Star** on the repositories. It really supports my work.
 
 ---
 
